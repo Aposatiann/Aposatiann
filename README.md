@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aposatiann
-- 👀 4 yıldır yazılımla ilgileniyorum ve bot yapıyorum 
+- 👀 4 yıldır yazılımla ilgileniyorum ve bot yapıyor
 - 🌱 Ücretli şekilde bot yapıyorum 
 - 💞️ bana ulaşak için discord hesabıma arkadaşlık ata bilirsiniz
 - 📫 How to reach me ...
